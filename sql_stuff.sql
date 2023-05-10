@@ -18,7 +18,7 @@ BEGIN
 END $$;
 
 -- Define function then run it
-```CREATE FUNCTION my_function() RETURNS void AS $$
+CREATE FUNCTION my_function() RETURNS void AS $$
   -- function code
 $$ LANGUAGE plpgsql;
 

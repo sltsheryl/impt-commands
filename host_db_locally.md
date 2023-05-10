@@ -18,4 +18,5 @@ DATABASES = {
 6. ```python3 manage.py migrate```
 
 <h3> To see the tables </h3>
-```psql mydatabase```
+
+`psql mydatabase`
